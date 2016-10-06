@@ -1,0 +1,10 @@
+{
+  "name": "dummy_images",
+  "version": "0.0.1",
+  "description": "Get random dummy images",
+  "dependencies": {
+    "wget":"*",
+    "moviedb":"*",
+    "promise" : "*"
+  }
+}
